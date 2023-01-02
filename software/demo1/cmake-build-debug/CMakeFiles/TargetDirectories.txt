@@ -1,0 +1,3 @@
+D:/Clion-STM32-FILMs/demo1/cmake-build-debug/CMakeFiles/demo1.elf.dir
+D:/Clion-STM32-FILMs/demo1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion-STM32-FILMs/demo1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
